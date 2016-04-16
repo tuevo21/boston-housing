@@ -1,6 +1,6 @@
 #Boston housing dataset
 
-###Packages
+###Python libraries
 
 numpy, Matplotlib, sklearn
 
