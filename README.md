@@ -19,6 +19,6 @@ The best-performing model (with tree-depth = 6 and MSE=25) gives predictions wit
 
 ###Installation
 
-Load boston_housing.py.
+To run, load boston_housing.py. My submitted work is in .html and .ipynb file.
 
 
